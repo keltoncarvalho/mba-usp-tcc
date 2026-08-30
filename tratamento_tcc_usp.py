@@ -5,6 +5,7 @@ Created on Sat Mar  7 17:37:29 2026
 
 @author: Kelton Carvalho Andrade
 """
+from pathlib import Path
 import json
 import pandas as pd
 import numpy as np
@@ -15,10 +16,11 @@ import statsmodels.formula.api as smf
 from statsmodels.iolib.summary2 import summary_col
 
 #%% Seção de download (Executar apenas se necessário baixar os dados novamente)
+#Path("microdados").mkdir(parents=True, exist_ok=True)
 #path = './microdados'
 #pnadium.anual.download(2024, 1, 'v', path, save_file=True) 
 #%% Lendo Dataframe e Dicionário com variáveis de interesse da PNADc
-caminho_vars = './dicionario.json'
+caminho_vars = './dicionario_vars_interesse.json'
 with open(caminho_vars, 'r') as f:
     data = json.load(f)
 variaveis = list(data.keys())
