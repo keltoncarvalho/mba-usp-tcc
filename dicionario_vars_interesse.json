@@ -1,0 +1,167 @@
+{
+    "Ano": {
+        "Descricao": "Ano de referência"
+    },
+    "Trimestre": {
+        "Descricao": "Trimestre de referência"
+    },
+    "UF": {
+        "Descricao": "Unidade da Federação"
+    },
+    "Capital": {
+        "Descricao": "Município da Capital"
+    },
+    "RM_RIDE": {
+        "Descricao": "Região Metropolitana e Região Administrativa Integrada de Desenvolvimento"
+    },
+    "UPA": {
+        "Descricao": "Unidade Primária de Amostragem (UPA)"
+    },
+    "V1008": {
+        "Descricao": "Número de seleção do domicílio"
+    },
+    "V1022": {
+        "Descricao": "Domicílio Urbano ou Rural"
+    },
+    "V1032": {
+        "Descricao": "Peso do domicílio e das pessoas (calibrado por projeção e correção de não entrevista)"
+    },
+    "V2005": {
+        "Descricao": "Condição no domicílio"
+    },
+    "V2007": {
+        "Descricao": "Sexo"
+    },
+    "V2009": {
+        "Descricao": "Idade do morador na data de referência"
+    },
+    "V2010": {
+        "Descricao": "Cor ou raça"
+    },
+    "V3002": {
+        "Descricao": "Atualmente... frequenta escola?"
+    },
+    "V3003A": {
+        "Descricao": "Qual é o curso que ... frequenta?"
+    },
+    "V3006": {
+        "Descricao": "Qual é o ano/série/semestre que ... frequenta?"
+    },
+    "V4009": {
+        "Descricao": "Quantos trabalhos ... tinha na semana de ... a ... (semana de referência ?"
+    },
+    "V5002A": {
+        "Descricao": "Recebe PBF?"
+    },
+    "V5002A2": {
+        "Descricao": "Valor recebido PBF"
+    },
+    "S01002": {
+        "Descricao": "Material predominante Paredes Externas"
+    },
+    "S01003": {
+        "Descricao": "Material predominante Cobertura/Telhado"
+    },
+    "S01004": {
+        "Descricao": "Material predominante Piso"
+    },
+    "S01007": {
+        "Descricao": "Acesso à Rede Geral de ÁGUA"
+    },
+    "S01008": {
+        "Descricao": "Disponibilidade Mensal da ÁGUA"
+    },
+    "S01009": {
+        "Descricao": "Este domicílio dispõe ou faz uso de reservatório, caixa d'água, cisterna, para armazenar a água?"
+    },
+    "S01011A": {
+        "Descricao": "Quantidade de banheiros de uso exclusivo"
+        },
+    "S01012A": {
+        "Descricao": "Destino do ESGOTO"
+    },
+    "S01013": {
+        "Descricao": "Destino do LIXO"
+    },
+    "S01014": {
+        "Descricao": "Qual(is) a(s) origem(ns) da energia elétrica utilizada neste domicílio?"
+    },
+    "S010141": {
+        "Descricao": "Eletricidade é da rede geral?"
+    },
+    "S010142": {
+        "Descricao": "Há outra origem de energia eletrica (gerador, placa solar, eólica)?"
+    },
+    "S01015": {
+        "Descricao": "Disponibilidade da ELETRICIDADE"
+    },
+    "S01016A": {
+        "Descricao": "Prepara ou não alimentos com combustível"
+    },
+    "S01016A1": {
+        "Descricao": "Botijão de Gás?"
+    },
+    "S01016A2": {
+        "Descricao": "Gás Encanado?"
+    },
+    "S01016A3": {
+        "Descricao": "Lenha ou Carvão?"
+    },
+    "S01016A4": {
+        "Descricao": "Energia Elétrica?"
+    },
+    "S01016A5": {
+        "Descricao": "Outro Combustível?"
+    },
+    "S01017": {
+        "Descricao": "Domicílio Alugado/Cedido etc."
+    },
+    "S01019": {
+        "Descricao": "Qual foi o valor mensal do aluguel pago, ou que deveria ter sido pago, no mês de referência?"
+    },
+    "S01021": {
+        "Descricao": "Quantos moradores possuem celular"
+    },
+    "S01023": {
+        "Descricao": "Geladeira?"
+    },
+    "S01028": {
+        "Descricao": "Microcomputador ou outros dispositivos portáteis"
+    },
+    "S01029": {
+        "Descricao": "Acesso à internet por qualquer dispositivo"
+    },
+    "VD2003": {
+        "Descricao": "Número de componentes do domicílio excluindo pensionista ou empregado etc."
+    },
+    "VD3004": {
+        "Descricao": "Nível de instrução mais elevado"
+    },
+    "VD4002": {
+        "Descricao": "Condição de ocupação na semana de referência para pessoas de 14 anos ou mais de idade"
+    },
+    "VD4004A": {
+        "Descricao": "Subocupação por insuficiência de horas habitualmente trabalhadas em todos os trabalhos"
+    },
+    "VD4005": {
+        "Descricao": "Pessoas desalentadas na semana de referência"
+    },
+    "VD4009": {
+        "Descricao": "Posição na ocupação e categoria do emprego do trabalho principal da semana de referência para pessoas de 14 anos ou mais de idade não remunerado"
+    },
+    "VD4012": {
+        "Descricao": "Contribuição para instituto de previdência em qualquer trabalho da semana de referência para pessoas de 14 anos ou mais de idade"
+    },
+    "VD5007": {
+        "Descricao": "Rendimento Domiciliar TOTAL"
+    },
+    "VD5008": {
+        "Descricao": "Rendimento Domiciliar PER CAPTA"
+    },
+    "COD_FAM": {
+        "Descricao": "Identificador de Família"
+    },
+    "COD_PESSOA": {
+        "Descricao": "Identificador de Pessoa da Família"
+    }
+}
